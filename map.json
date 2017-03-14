@@ -1,0 +1,93 @@
+{
+    "Hard Skills": {
+        "Markup": {
+            "HTML": {
+                "Responsive Images": {},
+                "Accessibility": {}
+            },
+            "SVG": {
+                "Filters": {},
+                "Animation": {},
+                "Icon systems": {}
+            },
+            "Markdown": {},
+            "XML": {}
+        },
+        "Styling": {
+            "CSS": {
+                "Keyframe Animations": {},
+                "Performance": {},
+                "Flexbox": {},
+                "Grid": {}
+            },
+            "Sass": {
+                "Architecture": {},
+                "Susy": {},
+                "Burbon": {}
+            },
+            "Naming Conventions": {
+                "BEM": {},
+                "Atomic": {},
+                "SMACSS?": {}
+            }
+        },
+        "Scripting": {
+            "Web Assembly": {},
+            "React": {
+                "Redux": {},
+                "React Router": {}
+            },
+            "Angular": {},
+            "D3.js": {},
+            "Testing": {
+                "Tape.js": {},
+                "Mocha": {},
+                "Chai": {}
+            },
+            "WebGL ?": {},
+            "Node": {
+                "Express": {},
+                "Keystone": {}
+            }
+        },
+        "Fed Ops": {
+            "Build Managers": {
+                "Gulp": {},
+                "Grunt": {},
+                "npm": {},
+                "Visual Studio integration?": {}
+            },
+            "JS Tooling": {
+                "Babel": {},
+                "ES Lint": {}
+            },
+            "Sass Tooling": {
+                "PostCSS": {}
+            },
+            "Static Site Generators": {
+                "Meatalsmith": {}
+            },
+            "VMs": {
+                "Vagrant": {},
+                "Docker": {}
+            },
+            "Deployment?": {
+                "Github web hooks": {},
+                "Heroku": {},
+                "Continuous Integration": {
+                    "Travis CI": {}
+                },
+                "AWS?": {}
+            }
+        },
+        "WordPress": {
+            "PODS": {},
+            "Performance": {
+                "W3C total cache": {}
+            }
+        }
+    },
+    "Soft Skills": {
+        "Oh so empty right now": {}
+    }
+}
