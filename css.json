@@ -1,0 +1,25 @@
+{
+    "Flexbox": {},
+    "Grid": {},
+    "Keyframe Animations": {},
+    "Transforms": {},
+    "Naming Conventions": {
+        "BEM": {},
+        "SMACSS": {},
+        "SUITCSS": {},
+        "OOCSS": {},
+        "Atomic": {}
+    },
+    "Performance": {},
+    "Frameworks": {
+        "Bootstrap": {},
+        "Foundation": {},
+        "Material UI": {}
+    },
+    "Sass": {
+        "Architecture": {},
+        "Susy": {},
+        "Burbon": {}
+    },
+    "PostCSS": {}
+}

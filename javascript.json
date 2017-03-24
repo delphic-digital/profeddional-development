@@ -1,0 +1,60 @@
+{
+    "Web Assembly": {},
+    "Extension languages?": {
+        "Typescript": {},
+        "coffeescript": {}
+    },
+    "Frameworks": {
+        "React": {
+            "Redux": {},
+            "Flux": {},
+            "React Router": {}
+        },
+        "Polymer": {},
+        "Angular": {},
+        "Vue": {},
+        "Ember": {},
+        "Preact": {},
+        "Inferno": {}
+    },
+    "Design Patterns": {
+        "Constructer": {},
+        "Module": {},
+        "Revealing module": {},
+        "Singleton": {},
+        "Observer": {},
+        "Mediator": {},
+        "Prototype": {},
+        "Command": {},
+        "Facade": {},
+        "Factory": {},
+        "Mixin": {},
+        "Decorator": {},
+        "Flyweight": {}
+    },
+    "Modular patterns": {
+        "AMD": {},
+        "CommonJS": {},
+        "Es6 modules": {}
+    },
+    "D3.js": {
+        "This should probably be it's own thing": {},
+        "Easings": {},
+        "Force Graph": {}
+    },
+    "Testing": {
+        "Tape.js": {},
+        "Mocha": {},
+        "Chai": {},
+        "Jasmine": {},
+        "Jest": {}
+    },
+    "WebGL ?": {},
+    "Node": {
+        "Express": {},
+        "Keystone": {},
+        "Hapi": {},
+        "Koa": {},
+        "Sails": {}
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Package Managers":{
+        "npm": {},
+        "jspm": {},
+        "bower": {},
+        "yarn": {}
+    },
+    "Task Runners": {
+        "Gulp": {},
+        "Grunt": {},
+        "npm": {},
+        "Visual Studio integration?": {}
+    },
+    "JS Tooling": {
+        "Babel": {},
+        "ES Lint": {},
+        "Browserify": {},
+        "Require.js": {},
+        "Webpack": {}
+    },
+    "Sass Tooling": {
+        "PostCSS": {}
+    },
+    "Static Site Generators": {
+        "Meatalsmith": {}
+    },
+    "VMs": {
+        "Vagrant": {},
+        "Docker": {}
+    },
+    "Deployment?": {
+        "Github web hooks": {},
+        "Heroku": {},
+        "Continuous Integration": {
+            "Travis CI": {}
+        },
+        "AWS?": {}
+    }
+}
