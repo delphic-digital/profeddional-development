@@ -9,14 +9,12 @@
         "Gulp": {},
         "Grunt": {},
         "npm": {},
+        "Webpack": {},
         "Visual Studio integration?": {}
     },
     "JS Tooling": {
         "Babel": {},
-        "ES Lint": {},
-        "Browserify": {},
-        "Require.js": {},
-        "Webpack": {}
+        "ES Lint": {}
     },
     "Sass Tooling": {
         "PostCSS": {}
@@ -32,7 +30,11 @@
         "Github web hooks": {},
         "Heroku": {},
         "Continuous Integration": {
-            "Travis CI": {}
+            "Travis CI": {},
+            "Jenkins": {},
+            "TeamCity": {},
+            "Drone": {},
+            "Bamboo": {}
         },
         "AWS?": {}
     }

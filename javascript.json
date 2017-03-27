@@ -32,10 +32,12 @@
         "Decorator": {},
         "Flyweight": {}
     },
-    "Modular patterns": {
+    "Modula loaders": {
+        "Es6 modules": {},
         "AMD": {},
         "CommonJS": {},
-        "Es6 modules": {}
+        "Browserify": {},
+        "Require.js": {}
     },
     "D3.js": {
         "This should probably be it's own thing": {},

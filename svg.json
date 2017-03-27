@@ -1,12 +1,34 @@
 {
     "Embedding": "Inline / img src / embed tag / object element / iframe / CSS background / Data URI / use tag",
     "Viewport / Viewbox": {},
-    "Object "
+    "Object Primitives": {
+        "Line": {},
+        "Rect": {},
+        "Circle": {},
+        "Ellipse": {},
+        "Text": {},
+        "Image": {},
+        "Path": {}
+    },
+    "Organizational tags": {
+        "Group <g>": {},
+        "Defenition <def>": {},
+        "Use <use>": {},
+        "Symbol <symbol>": {},
+        "Marker <marker>": {},
+        "Font <font>": {},
+        "Metadata <metadata>": {},
+        "Switch <switch>": {}
+    },
+    "Transforms": {},
+    "Gradients": {},
+    "Patterns": {},
+    "Masking / clipping": {},
     "Filters": {},
     "Animation": {},
     "Icon systems": {},
     "Optimization": {
         "SVGO": {},
         "Grunticon": {}
-    },
+    }
 }

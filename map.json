@@ -6,12 +6,57 @@
                 "Accessibility": {}
             },
             "Markdown": {},
-            "XML": {}
+            "XML": {},
+            "HAML": {},
+            "YAML": {},
+            "Email": {}
         },
         "WordPress": {
+            "WP Migrate DB": {},
             "PODS": {},
-            "Performance": {
-                "W3C total cache": {}
+            "W3C total cache": {},
+            "WordFence": {}
+        },
+        "The Internet": {
+            "Hosting": {
+                "Rackspace": {},
+                "AWS": {},
+                "Heroku": {},
+                "Azure": {},
+                "Google App Engine": {},
+                "Digital Ocean": {}
+            },
+            "WebServers": {
+                "Apache": {},
+                "IIS": {},
+                "Nginx": {},
+                "Tomcat": {},
+                "Caddy": {}
+            },
+            "Load Balancers": {},
+            "CDNs": {},
+            "DNS": {},
+            "Protocals?": {
+                "REST": {},
+                "GraphQL": {},
+                "HTTP": {},
+                "HTTPS": {}
+            },
+            "Databases": {
+                "Graph DBs": {
+                    "Neo4j": {},
+                    "Titan": {}
+                },
+                "NoSQL": {
+                    "MongoDB": {},
+                    "Redis": {}
+                },
+                "MySQL": {},
+                "Postgres": {}
+            },
+            "Networking": {
+                "UDP": {},
+                "TCP": {}
             }
         }
     },
