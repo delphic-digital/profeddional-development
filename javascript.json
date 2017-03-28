@@ -17,6 +17,16 @@
         "Preact": {},
         "Inferno": {}
     },
+    "libraries": {
+        "GreenSock": {},
+        "Mo.js": {},
+        "Anime.js": {},
+        "D3.js": {
+            "This should probably be it's own thing": {},
+            "Easings": {},
+            "Force Graph": {}
+        }
+    },
     "Design Patterns": {
         "Constructer": {},
         "Module": {},
@@ -38,11 +48,6 @@
         "CommonJS": {},
         "Browserify": {},
         "Require.js": {}
-    },
-    "D3.js": {
-        "This should probably be it's own thing": {},
-        "Easings": {},
-        "Force Graph": {}
     },
     "Testing": {
         "Tape.js": {},
